@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        style="@style/welcome"
+        android:id="@+id/welcometv"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:fontFamily="sans-serif-black"
+        android:text="Welcome Vijaywada"
+        android:textColor="@color/blue"
+        android:textSize="30sp"/>
+    <TextView
+        style="@style/city"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:fontFamily="monospace"
+        android:text="Travel guide App"
+        android:textColor="@color/red"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_margin="5dp"
+        android:src="@drawable/welcomevijaywada"
+        />
+    <Button
+        android:id="@+id/welcomevijaywada"
+        style="@style/button"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:fontFamily="monospace"
+        android:background="@drawable/shapes"
+        android:text="Click here"/>
+</LinearLayout>

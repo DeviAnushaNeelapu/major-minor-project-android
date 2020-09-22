@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="ash">#A19D9D</color>
+    <color name="musems">#FFD6F49D</color>
+    <color name="restaurants">#FFF25757</color>
+    <color name="events">#FFFFC857</color>
+    <color name="generalbackground">#FF8AEDD5</color>
+    <color name="borderback">#FF806853</color>
+    <color name="border">#FF310B53</color>
+    <color name="anotherblack">#FF080F0F</color>
+    <color name="paleSpring">#FFDFD8D2</color>
+    <color name="red">#EC2B1D</color>
+    <color name="blue">#6477DF</color>
+    <color name="green">#97F32D</color>
+    <color name="yellow">#EDD609</color>
+    <color name="white">#EFECEC</color>
+    <color name="orange">#FF9800</color>
+    <color name="violet">#9865F3</color>
+
+
+</resources>

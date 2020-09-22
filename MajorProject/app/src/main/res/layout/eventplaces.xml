@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:background="@color/musems"
+    android:minHeight="140dp"
+    android:weightSum="2"
+
+    android:layout_height="wrap_content">
+    <ImageView
+        android:layout_weight="1"
+        android:layout_height="130dp"
+        android:layout_width="0dp"
+        android:layout_margin="5dp"
+        android:id="@+id/image_result"/>
+    <LinearLayout
+        android:layout_width="0dp"
+
+        android:layout_height="130dp"
+        android:id="@+id/text_container"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:weightSum="5"
+        android:layout_margin="5dp">
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            android:textAppearance="?android:textAppearanceSmall"
+            android:textColor="@color/orange"
+            android:textStyle="bold|italic"
+            android:fontFamily="@font/krona_one" />
+        <TextView
+            android:id="@+id/address_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:layout_margin="3dp"
+            android:layout_weight="1.5"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:textColor="@color/orange"
+            android:textStyle="bold|italic"
+            android:visibility="gone"
+            android:fontFamily="@font/abhaya_libre"
+            style="?android:attr/ratingBarStyleSmall"
+            />
+
+
+    </LinearLayout>
+
+</LinearLayout>

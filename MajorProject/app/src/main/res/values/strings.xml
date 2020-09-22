@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">MajorProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="category_lists">Lists</string>
+    <string name="welcome">Welcome Vijaywada</string>
+    <string name="city_name">Travel Guide</string>
+
+    <string name="restaurant">Restaurants</string>
+    <string name="temples">Temples</string>
+    <string name="parks">Parks</string>
+    <string name="tourism">Tourism</string>
+    <string name="abt_msg">About App</string>
+    <string name="alert_msg">Tour Information of Vijayawada District ,Andhra Pradesh,India</string>
+
+
+    <string-array name="restuarants">
+        <item>Bamboo  Biryani</item>
+        <item>Barbeque Nation, Vijayawada</item>
+        <item>Sarovar</item>
+        <item>Sri Ramayya Mess</item>
+        <item>Rasoie</item>
+        <item>Barkaas Arabic Restaurant</item>
+        <item>Babai Hotel</item>
+        <item>Temptations Vijayawada</item>
+
+
+
+    </string-array>
+
+
+    <string-array name="restaurantsaddress">
+        <item>LEPL ICON mall beside inox box office, RTC Colony, Vijayawada,</item>
+        <item>LEPL, Centro Mall, 3rd Floor,Murali Park, MG Rd, Labbipet,Vijayawada</item>
+        <item>Nageswara Rao Pantulu Rd, Near Santhi Theatre, GandhiNagar</item>
+        <item>Prakasam Rd, Venkatswara Rao Street, Governor Peta, Vijayawada</item>
+        <item> MG Road, Opp Murali Fortune Mughal Rajapuram, Labbipet, Vijayawada </item>
+        <item>Donepudi Dharmarao Road, Siddhartha School Rd</item>
+        <item>Nageswara Rao Pantulu Rd, Opposite SKPVV Girls High School</item>
+        <item>40-5-2A, Tikkle Rd, Acharya Ranga Nagar, Benz Circle, Vijayawada</item>
+
+    </string-array>
+
+    <string-array name="temple">
+        <item>Kanaka Durga Ammavari Temple</item>
+        <item>Shiridi Sai Baba Temple</item>
+        <item>Sri Subrahmanya Swami Temple</item>
+        <item>Sri Ramalingeswara Swamy Temple</item>
+        <item>Durga Devi Temple</item>
+        <item>Sri Dasa Anjaneya Swamy Vari Temple</item>
+        <item>Sri Durga Malleswara Swamy Varla Devasthanam</item>
+        <item>Kanaka Durgamma Temple Vijayawada</item>
+    </string-array>
+
+    <string-array name="templeaddress">
+        <item>K.K.Complex Vijayawada Road Opp.Geetha Mandir,Vasanth Nagar, Kanuru,</item>
+        <item>NH16, Prasadampadu, currency nagar, Vijayawada</item>
+        <item> Kothapeta, Indrakeeladri, Behind Komala Vilas Hotel Hill Top</item>
+        <item>Yanamalakuduru Konda Rd, Bhagat Singh Nagar, Yanamalakuduru</item>
+        <item> Devi Nagar, Rama Krishna Puram, Vijayawada</item>
+        <item>Om Namassivaya St, Road Number 1, Road Number 1,Near Bank</item>
+        <item> Arjuna Street Mallikarjunapeta Indrakeeladri, Vijayawada </item>
+        <item> Durga Temple Ghat Rd, Durga Agraharam, Mallikarjunapeta</item>
+    </string-array>
+
+    <string-array name="park">
+        <item>Rajiv Gandhi Park</item>
+        <item>Raghavaiah Park</item>
+        <item>K.L Rao Park</item>
+        <item>vmc park</item>
+        <item>Teachers Colony Park</item>
+        <item>Nagarjuna Nagar Park</item>
+        <item>Scrap Sculpture Park</item>
+    </string-array>
+
+
+    <string-array name="parkaddrsess">
+        <item>NH65, Krishnalanka, Vijayawada</item>
+        <item>Bus Stop, Kanaka Durgamma Temple Rd Near Old Post Office</item>
+        <item>Milk Factory Rd, Fraserpeta, Vijayawada</item>
+        <item>P Gopala Krishnaish St, Nagarjuna Nagar, currency nagar</item>
+        <item>Teachers Colony, Benz Circle, Vijayawada</item>
+        <item>Nagarjuna Nagar, Sri Ramachandra Nagar, Vijayawada</item>
+        <item>12, 27-37-12, MG Rd, Governor Peta, Vijayawada</item>
+    </string-array>
+
+    <string-array name="tourism">
+
+        <item>Akkanna Madanna Caves</item>
+        <item>VMC Disney Land</item>
+        <item>Bapu Museum</item>
+        <item>Undavalli Caves </item>
+        <item>Gandhi Hill</item>
+    </string-array>
+
+
+    <string-array name="tourismaddress">
+        <item> Arjuna St, Durga Agraharam, Mallikarjunapeta, Vijayawada</item>
+        <item>Pipula Road, Junction, Ajit Singh Nagar, Vijayawada</item>
+        <item> MG Rd, Buckinghampeta, Vijayawada</item>
+        <item> Penumaka - Vijayawada Road Near Prakasam, Barrage, Undavalli</item>
+        <item>Gandhi Hill Rd, Islampet, Vijayawada</item>
+    </string-array>
+
+</resources>
+
+
+
+
+
+
